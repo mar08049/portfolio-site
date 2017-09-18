@@ -1,1 +1,39 @@
+h1 {
+  font-family: : Helvetica ,Times, serif;
+  color: white;
+  padding-top: 30px;
+  border-bottom: solid;
+  border-color: white;
+}
 
+body {
+  background-color: #001f3f;
+  margin: 30px;
+
+}
+
+html {
+  color: white;
+}
+
+img {
+  float: right;
+  margin-right: 15px;
+  border: solid;
+  border-color: white;
+}
+
+div {
+  align: center;
+}
+
+.wrapper {
+  border-bottom: solid;
+  border-color: white;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.LI-profile-badge {
+  float: right;
+}
